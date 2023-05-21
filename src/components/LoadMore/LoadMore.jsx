@@ -1,4 +1,3 @@
-// import { Loader } from 'components/Loader/Loader';
 import { Button } from './LoadMore.styled';
 export const LoadMore = ({ handleBtnLoadMore, disabled }) => {
   return (
